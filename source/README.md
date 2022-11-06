@@ -36,7 +36,7 @@ The problem being addressed is analysing various call recordings by converting s
 3. Navigate to the backend folder using `cd backend\app'.
 4. Download the necessary libaries using `pip install -r requirements.txt`.
 5. Start the backend server using `py app.py`.
-6. Navigate to the frontend folder using `cd frontend\black-dashboard-react-master`.
+6. Navigate to the frontend folder using `cd frontend\call_centre_dashboard`.
 7. Install the libraries using `npm i`.
 8. Start the local development server using `npm start`.
 
